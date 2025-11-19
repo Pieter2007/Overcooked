@@ -1,5 +1,6 @@
 # Overcooked Remake 
-<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/1f591a44-af55-4676-8a31-4539a4d0115f" />
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/c451bf01-029c-402b-9cd9-181ace307cdb" />
+
 
 
 ## Visual Sheets
