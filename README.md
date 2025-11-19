@@ -1,7 +1,7 @@
 # Overcooked
 
 ## Visual Sheets
-###Get an ingredient
+### Get an ingredient
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/02f356aa-7a15-4607-9f53-7279da6e1224" />
 
 ### Player Switch Mechanic
