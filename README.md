@@ -1,4 +1,6 @@
-# Overcooked
+# Overcooked Remake 
+<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/1f591a44-af55-4676-8a31-4539a4d0115f" />
+
 
 ## Visual Sheets
 ### Get an ingredient
